@@ -1,0 +1,13 @@
+.gauge/
+reports/
+docs/
+out/
+logs/
+.idea
+.gradle/
+*.iml
+*.log
+.vscode/
+*.yml
+**/*.pyc
+**/*.DS_Store
