@@ -1,0 +1,4 @@
+getgauge
+selenium
+#chromedriver_installer
+pip
